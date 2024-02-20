@@ -4,3 +4,10 @@ This project is based on LLM. This program fetches stock related urls (today or 
 
 
 
+Libraries & Tools used
+
+1. Python
+2. BeautifulSoup
+3. GooglePalm
+4. Moneycontrol
+5. Jupyter notebook as IDE
